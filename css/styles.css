@@ -11426,10 +11426,13 @@ html {
   line-height: 2.75rem;
 }
 .masthead .masthead-subheading {
-  font-size: 1.25rem;
+  font-size: 1.40rem;
+}
+.masthead .masthead-subheading-1 {
+  font-size: 2.25rem;
 }
 .masthead .masthead-avatar {
-  width: 15rem;
+  width: 10rem;
 }
 
 @media (min-width: 992px) {
@@ -11442,7 +11445,10 @@ html {
     line-height: 3.5rem;
   }
   .masthead .masthead-subheading {
-    font-size: 1.5rem;
+    font-size: 1.55rem;
+  }
+  .masthead .masthead-subheading-1 {
+    font-size: 2.25rem;
   }
 }
 .portfolio .portfolio-item {
